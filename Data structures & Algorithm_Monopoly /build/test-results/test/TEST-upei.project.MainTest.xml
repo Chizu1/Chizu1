@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="upei.project.MainTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-12-12T22:32:58" hostname="Chizurums-MacBook-Air.local" time="0.438">
+  <properties/>
+  <testcase name="testPrudentPlayerMovement()" classname="upei.project.MainTest" time="0.184"/>
+  <testcase name="testArbitraryPlayerMovement()" classname="upei.project.MainTest" time="0.003"/>
+  <testcase name="testBoldPlayerMovement()" classname="upei.project.MainTest" time="0.005"/>
+  <testcase name="testMonopolyGame()" classname="upei.project.MainTest" time="0.16"/>
+  <system-out><![CDATA[ArbitraryPlayer - Money: 0
+BoldPlayer - Money: 1512
+PrudentPlayer - Money: 0
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
